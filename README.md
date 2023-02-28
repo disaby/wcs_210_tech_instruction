@@ -110,5 +110,7 @@ To get the icon back, press Win + E. This will open the explorer. Drag and drop 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/123377628/221936786-bca47800-d08f-4597-913c-37cc53ecaead.jpeg" height=300>
 </p>
+
+
 ### Conclusion
 Compiling C++ code in Visual Studio is a fundamental process for any developer who wants to build complex applications. Through this guide, we have explored how to set up Visual Studio for C++ development, create a C++ project, add source code files to the project, and compile the code. We've also covered how to handle common errors that may arise during the compilation process.
