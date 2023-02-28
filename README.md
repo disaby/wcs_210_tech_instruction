@@ -61,7 +61,7 @@ Select it and click on "Edit". In the "Edit Environment Variable" window, click 
 #### 6. Click "OK" to close all the windows. 
 Now your Visual Studio Code is ready to compile C++ code.
 
-
+---
 ### Let’s do a little check
 #### Configure Visual Studio Code: 
 Open Visual Studio Code and create a new folder where you will store your C++ projects. Then, create a new file in the folder with a .cpp file extension (for example, hello.cpp). In the top menu bar, click on "Terminal" and select "New Terminal" to open a new terminal window in Visual Studio Code.
@@ -91,7 +91,7 @@ g++ hello.cpp -o output
 ./output
 ```
 
-
+---
 ### Troubleshooting:
 
 The first problem you may encounter is the error “The file has been downloaded incorrectly!”
@@ -111,6 +111,6 @@ To get the icon back, press Win + E. This will open the explorer. Drag and drop 
   <img src="https://user-images.githubusercontent.com/123377628/221936786-bca47800-d08f-4597-913c-37cc53ecaead.jpeg" height=300>
 </p>
 
-
+---
 ### Conclusion
 Compiling C++ code in Visual Studio is a fundamental process for any developer who wants to build complex applications. Through this guide, we have explored how to set up Visual Studio for C++ development, create a C++ project, add source code files to the project, and compile the code. We've also covered how to handle common errors that may arise during the compilation process.
