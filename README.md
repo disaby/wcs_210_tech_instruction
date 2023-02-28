@@ -90,7 +90,9 @@ int main()
 g++ hello.cpp -o output
 ./output
 ```
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/95915993/221945440-79538bc2-75df-4ed8-aa76-3b0253264072.png" height=500>
+</p>
 ---
 ### Troubleshooting:
 
